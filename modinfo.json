@@ -3,7 +3,7 @@
     "build": "113132",
     "context": "server",
     "date": "2019-04-28",
-    "description": "Loads Superstats as a Companion Mod.",
+    "description": "Loads Superstats as a Companion Mod for the purpose of accurate victory reports.",
     "display_name": "Cambridge Analytica 2.0",
     "forum": "https://forums.planetaryannihilation.com/threads/cambridge-analytica-2-0.73361/",
     "identifier": "com.pa.dissonant.cambridge-analytica-2",
