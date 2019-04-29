@@ -12,5 +12,9 @@
     "icon": "https://i.imgur.com/N2YTnPt.png",
     "priority": 100,
     "dependencies": ["com.flubbateios.stats"],
-    "companions": ["com.flubbateios.stats"]
+    "companions": ["com.flubbateios.stats"],
+    "category": [
+        "titans",
+        "classic"
+      ]
 }
